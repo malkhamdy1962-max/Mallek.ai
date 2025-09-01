@@ -1,0 +1,5 @@
+{
+  "name": "Egyptian Legal AI Agent Team",
+  "description": "A multi-agent AI system specializing in Egyptian law. Users define a legal task, and a team of specialized agents (researcher, academic drafter, verifier) collaborate to provide comprehensive answers.",
+  "requestFramePermissions": []
+}
